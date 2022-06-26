@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Seyed Mojtaba Esmaili
-- 👀 I’m interested in python/backend development
+- 👀 I’m interested in python/django development
 - 🌱 I’m currently learning Linux and django
 - 📫 You can reach me via {email:"mo93esm@gmail.com" , Linkedin:[Seyed Mojtaba Esmaili](https://www.linkedin.com/in/seyed-mojtaba-esmaili/)}
 
